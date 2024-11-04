@@ -1,7 +1,7 @@
 
 {
-    "url1": "./data/weather.db",
-    "url2": "./data/air_quality.db",
+    "url1": "https://github.com/sumkh/end_to_end_ml_multiclass_classification/raw/refs/heads/main/src/data/weather.db",
+    "url2": "https://github.com/sumkh/end_to_end_ml_multiclass_classification/raw/refs/heads/main/src/data/air_quality.db",
     "train_size": 0.8,
     "threshold": 0.02,
     "cv_splits": 5,
