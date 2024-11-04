@@ -1,0 +1,9 @@
+
+{
+    "url1": "./data/weather.db",
+    "url2": "./data/air_quality.db",
+    "train_size": 0.8,
+    "threshold": 0.02,
+    "cv_splits": 5,
+    "n_iter": 5
+    }
